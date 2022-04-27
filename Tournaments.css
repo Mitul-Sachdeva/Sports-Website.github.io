@@ -1,0 +1,41 @@
+body {
+    background-color: bisque;
+
+}
+
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: red;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: red;
+    font-style: italic;
+    text-transform: uppercase;
+
+}
+
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: red;
+    font-style: italic;
+    text-transform: uppercase;
+
+}
+
+
+p {
+    text-align: justify;
+    font-size: 18px;
+    color: #000;
+    font-style: italic;
+}
